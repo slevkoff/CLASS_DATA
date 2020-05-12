@@ -1,4 +1,4 @@
-"admit" "gre" "gpa" "rank"
+"admit" "gmat" "gpa" "rank"
 "1" 0 380 3.61 3
 "2" 1 660 3.67 3
 "3" 1 800 4 1
