@@ -1,2 +1,0 @@
-# Ledolter
-Ledolter Resources
